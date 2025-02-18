@@ -7,7 +7,7 @@ import javax.mail.internet.*;
 public class EmailUtil {
     public static void sendEmail(String recipient, String subject, String messageText) {
         final String senderEmail = "virajpansare72@gmail.com";
-        final String senderPassword = "bmdubpkkqhkpvvcn";
+        final String senderPassword = "password";
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
