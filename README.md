@@ -51,6 +51,21 @@ Ensure you have the following installed:
    ```sh
    java -jar target/agrievancesystem-0.0.1-SNAPSHOT.jar
    ```
+## Screenshots
+### Login Screen
+![Login Screen](ScreenShots/s2.png)
+
+### Student Dashboard
+![Student Dashboard](ScreenShots/s4.png)
+
+### Admin Dashboard
+![Admin Dashboard](ScreenShots/s7.png)
+
+### Submit Complaint
+![Submit Complaint](ScreenShots/s5.png)
+
+### View Complaints
+![View Complaints](ScreenShots/s6.png)
 
 ## Database Schema
 The application consists of the following tables:
